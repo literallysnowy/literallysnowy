@@ -7,3 +7,6 @@ Feel free to check out my projects, use them in your own work, and connect with 
 🔹 Building cool, creative web experiences
 
 Let's code something awesome together! 💙✨
+
+
+I put most of my projects into organizations, but they will be reposted here!
