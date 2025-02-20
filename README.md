@@ -1,11 +1,9 @@
-I'm a HTML/CSS developer passionate about crafting sleek, modern websites. 
-I organize my projects into GitHub Organizations so each site gets its own domain like:
-sitename.github.io instead of literallysnowy.github.io/sitename 
+Wsp! I'm Snowy! A new developer on GitHub. I mainly make Python projects, but also sites and maybe sometimes Node.JS projects!
 
-To make things easier, I also repost the source files to my main profile, so you can easily access and use them!
 
-🔹 Always learning & improving
-🔹 Open to collaboration
-🔹 Building unique, user-friendly web experiences
+## 📊 GitHub Stats  
 
-Check out my work and feel free to use my projects in yours! Let’s build something awesome together. 💙✨
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=literallysnowy&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=literallysnowy&layout=compact&theme=dark)  
+
+---
