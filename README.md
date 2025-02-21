@@ -1,7 +1,6 @@
 # Wsp! I'm Snowy.
 ---
-[banner](https://github.com/user-attachments/assets/7d332f74-8052-43cf-9f11-18ce31e60613)
-
+![67b82cc494df272b3dab399b](https://github.com/user-attachments/assets/41f6450f-8bdc-49a5-be98-d3c7d6c9fc57)
 ---
 
 ## 📊 GitHub Stats  
