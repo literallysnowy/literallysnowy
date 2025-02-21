@@ -1,6 +1,7 @@
 # Wsp! I'm Snowy.
 ---
-https://share.creavite.co/67b82cc494df272b3dab399b.gif
+[banner](https://github.com/user-attachments/assets/7d332f74-8052-43cf-9f11-18ce31e60613)
+
 ---
 
 ## 📊 GitHub Stats  
