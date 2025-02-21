@@ -1,18 +1,6 @@
-# ❄️ Hey there! I'm Snowy!  
-
-### 💻 Developer | Python, Web & More  
-
-I'm a **passionate developer** who mainly works with **Python**, but I also create **websites** and occasionally dabble in **Node.js projects**! I'm always learning and experimenting with new technologies.  
-
+# Wsp! I'm Snowy.
 ---
-
-## ⚡ About Me  
-
-🔹 **Mainly focused on Python projects** 🐍  
-🔹 **Building modern & interactive websites** 🌐  
-🔹 **Exploring Node.js for backend development** 🚀  
-🔹 **Always learning and improving!** 📚  
-
+https://share.creavite.co/67b82cc494df272b3dab399b.gif
 ---
 
 ## 📊 GitHub Stats  
